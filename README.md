@@ -1,4 +1,5 @@
-# Fingerprint-Vehicle-Starter-using-Arduino
+# Fingerprint-Vehicle-Starter
+# Hello there! If you are looking for a project which i related to safety and security of vehicles, then you are on the right page.
 # This project contains following:
    # Project code
    # Project images
